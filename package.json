@@ -1,0 +1,11 @@
+{
+  "name": "hackerrank",
+  "version": "1.0.0",
+  "description": "xd",
+  "main": "hacks.js",
+  "scripts": {
+    "test": "testeo"
+  },
+  "author": "aaron",
+  "license": "ISC"
+}
