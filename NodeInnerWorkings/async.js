@@ -23,3 +23,5 @@ doRequest();
 
 // How does this os async stuff fit into the event loop?
 // R: Tasks using the underlyion OS reflected in our 'pendingOSTasks' array in NodeEventLoop.js file
+
+// increase font size on important words or functions
