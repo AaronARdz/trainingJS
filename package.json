@@ -7,5 +7,8 @@
     "test": "testeo"
   },
   "author": "aaron",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
 }
